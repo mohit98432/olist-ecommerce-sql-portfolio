@@ -1,0 +1,5 @@
+# Workbench local connection settings and operating-system noise
+*.mwb.bak
+*.tmp
+Thumbs.db
+Desktop.ini
